@@ -4,16 +4,13 @@
   qualification: Master of Science 
   description: Marketing Management
 
-  quote: >
-    Bocconi University is a private university in Milan founded in 1902 in Milan, Italy. Consistently ranked as the top university in Italy in its fields, and as one of the best in the world.
-
-- layout: left
+- layout: top
   name: Indian Institute of Management, Kozhikode
   dates: 2008
   qualification: Exchange Student in the Post Graduate Program 
   description: Marketing Management
 
-- layout: left
+- layout: right
   name: Università Bocconi
   dates: 2004 - 2007
   qualification: Undergraduate Program 
