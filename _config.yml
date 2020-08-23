@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Michele Di Maio
-title: During the day I turn data into stories while I'm a podcaster during the night.
+title: I turn data into stories by the day, a podcaster by the night.
 email: michele.dimaio@gmail.com
 website: www.micheledimaio.com
 
@@ -26,14 +26,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Michele and I'm a senior <mark>intelligence</mark> and <mark>insights</mark> manager. I have experience in CRM, product marketing and go-to-market. 
   
-  I'm in love with technology and innovation and for the past 10 years I've been speaking about it <mark>[in a podcast](http://digitalia.fm)</mark>.
+  I'm in love with technology and innovation and for the past 10 years I've been speaking about it <mark>in a podcast </mark>[called Digitalia](http://digitalia.fm).
   
-  Also, I'm very serious about <mark>pizza</mark> and <mark>backpacking in Asia</mark>.
+  Also, I'm very serious about <mark>pizza</mark> and <mark>backpacking around Asia</mark>.
 
  
-# Projects Section
-# projects_title: Projects
-
 # Experience Section
 # experience_title: Experience
 
