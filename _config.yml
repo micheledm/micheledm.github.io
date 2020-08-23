@@ -26,11 +26,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Michele and I'm a senior <mark>intelligence</mark> and <mark>insights</mark> manager. I have experience in CRM, product marketing and go-to-market. 
   
-  I'm in love with technology and innovation and for the past 10 years I've been speaking about it <mark>in a podcast </mark>[called Digitalia](http://digitalia.fm).
+  I'm in love with technology and innovation and for the past 10 years I've been speaking about it <mark>in a podcast</mark> [called Digitalia](http://digitalia.fm).
   
   Also, I'm very serious about <mark>pizza</mark> and <mark>backpacking around Asia</mark>.
 
- 
+
 # Experience Section
 # experience_title: Experience
 
@@ -47,7 +47,7 @@ more_content: | # this will include new lines to allow paragraphs
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme

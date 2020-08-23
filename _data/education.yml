@@ -1,10 +1,22 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+  name: Università Bocconi
+  dates: 2007 - 2010
+  qualification: Master of Science 
+  description: Marketing Management
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  quote: >
+    Bocconi University is a private university in Milan founded in 1902 in Milan, Italy. Consistently ranked as the top university in Italy in its fields, and as one of the best in the world.
+
+- layout: left
+  name: Indian Institute of Management, Kozhikode
+  dates: 2008
+  qualification: Exchange Student in the Post Graduate Program 
+  description: Marketing Management
+
+- layout: left
+  name: Università Bocconi
+  dates: 2004 - 2007
+  qualification: Undergraduate Program 
+  description: Economia delle Nuove Tecnologie e Mercati Internazionali
+
+
