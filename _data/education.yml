@@ -1,4 +1,4 @@
-- layout: left
+- layout: top
   name: Università Bocconi
   dates: 2007 - 2010
   qualification: Master of Science 
@@ -10,7 +10,7 @@
   qualification: Exchange Student in the Post Graduate Program 
   description: Marketing Management
 
-- layout: right
+- layout: top
   name: Università Bocconi
   dates: 2004 - 2007
   qualification: Undergraduate Program 
