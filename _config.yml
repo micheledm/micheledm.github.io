@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Michele Di Maio
-title: I turn data into stories by the day, a podcaster by the night.
+title: I turn data into stories by the day and I'm a podcaster by the night.
 email: michele.dimaio@gmail.com
 website: www.micheledimaio.com
 
@@ -39,11 +39,20 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Some skills that I acquired during my working experience:
+   - Excel ninja
+   - Power Query & Power Pivot
+   - Adobe Campaign
+   - Oracle Datawarehouse
+   - Sas
+   - SQL
+   
+   And other things that I enjoy doing in my spare time:
+   - Reading non-fiction and sci-fi
+   - Coding (mostly Python)
+   - Travelling
+   - Cooking
+   
 
 # Footer
 footer_show_references: false
